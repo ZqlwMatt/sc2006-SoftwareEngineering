@@ -1,0 +1,18 @@
+{% extends 'base.html' %}
+{% load django_tables2 %}
+{% block title %}
+    Current Disruptions
+{% endblock %}
+{% block content %}
+    <main class="current-disruptions">
+        <div class="pt-3 px-5 mt-5 border-bottom">
+            <h1 class="display-5 fw-bold">Current Disruptions</h1>
+        </div>
+        <div class="container-fluid px-5 mt-3">
+            <h3>Major disruptions</h3>
+            {% render_table table %}
+            <h3>Other verified incidents</h3>
+            {% render_table table_incidents %}
+        </div>
+    </main>
+{% endblock %}

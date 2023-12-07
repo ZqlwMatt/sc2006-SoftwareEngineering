@@ -1,0 +1,90 @@
+[
+{
+    "model": "main.mrtline",
+    "pk": 23,
+    "fields": {
+        "name": "North-South Line",
+        "code": "NSL"
+    }
+},
+{
+    "model": "main.mrtline",
+    "pk": 24,
+    "fields": {
+        "name": "East-West Line",
+        "code": "EWL"
+    }
+},
+{
+    "model": "main.mrtline",
+    "pk": 25,
+    "fields": {
+        "name": "Changi Airport Branch Line",
+        "code": "CG:"
+    }
+},
+{
+    "model": "main.mrtline",
+    "pk": 26,
+    "fields": {
+        "name": "North East Line",
+        "code": "NEL"
+    }
+},
+{
+    "model": "main.mrtline",
+    "pk": 27,
+    "fields": {
+        "name": "Circle Line",
+        "code": "CCL"
+    }
+},
+{
+    "model": "main.mrtline",
+    "pk": 28,
+    "fields": {
+        "name": "Circle Line Extension",
+        "code": "CEL"
+    }
+},
+{
+    "model": "main.mrtline",
+    "pk": 29,
+    "fields": {
+        "name": "Downtown Line",
+        "code": "DTL"
+    }
+},
+{
+    "model": "main.mrtline",
+    "pk": 30,
+    "fields": {
+        "name": "Bukit Panjang LRT",
+        "code": "BPL"
+    }
+},
+{
+    "model": "main.mrtline",
+    "pk": 31,
+    "fields": {
+        "name": "Sengkang LRT",
+        "code": "SLRT"
+    }
+},
+{
+    "model": "main.mrtline",
+    "pk": 32,
+    "fields": {
+        "name": "Punggol LRT",
+        "code": "PLRT"
+    }
+},
+{
+    "model": "main.mrtline",
+    "pk": 33,
+    "fields": {
+        "name": "Thomson-East Coast Line",
+        "code": "TEL"
+    }
+}
+]

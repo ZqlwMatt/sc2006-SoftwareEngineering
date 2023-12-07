@@ -1,0 +1,1829 @@
+[
+{
+    "model": "main.mrtlinestation",
+    "pk": 204,
+    "fields": {
+        "mrt_line": 23,
+        "station": 174,
+        "station_code": "NS1"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 205,
+    "fields": {
+        "mrt_line": 23,
+        "station": 175,
+        "station_code": "NS2"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 206,
+    "fields": {
+        "mrt_line": 23,
+        "station": 176,
+        "station_code": "NS3"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 207,
+    "fields": {
+        "mrt_line": 23,
+        "station": 177,
+        "station_code": "NS4"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 208,
+    "fields": {
+        "mrt_line": 23,
+        "station": 178,
+        "station_code": "NS5"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 209,
+    "fields": {
+        "mrt_line": 23,
+        "station": 179,
+        "station_code": "NS7"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 210,
+    "fields": {
+        "mrt_line": 23,
+        "station": 180,
+        "station_code": "NS8"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 211,
+    "fields": {
+        "mrt_line": 23,
+        "station": 181,
+        "station_code": "NS9"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 212,
+    "fields": {
+        "mrt_line": 23,
+        "station": 182,
+        "station_code": "NS10"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 213,
+    "fields": {
+        "mrt_line": 23,
+        "station": 183,
+        "station_code": "NS11"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 214,
+    "fields": {
+        "mrt_line": 23,
+        "station": 184,
+        "station_code": "NS12"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 215,
+    "fields": {
+        "mrt_line": 23,
+        "station": 185,
+        "station_code": "NS13"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 216,
+    "fields": {
+        "mrt_line": 23,
+        "station": 186,
+        "station_code": "NS14"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 217,
+    "fields": {
+        "mrt_line": 23,
+        "station": 187,
+        "station_code": "NS15"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 218,
+    "fields": {
+        "mrt_line": 23,
+        "station": 188,
+        "station_code": "NS16"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 219,
+    "fields": {
+        "mrt_line": 23,
+        "station": 189,
+        "station_code": "NS17"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 220,
+    "fields": {
+        "mrt_line": 23,
+        "station": 190,
+        "station_code": "NS18"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 221,
+    "fields": {
+        "mrt_line": 23,
+        "station": 191,
+        "station_code": "NS19"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 222,
+    "fields": {
+        "mrt_line": 23,
+        "station": 192,
+        "station_code": "NS20"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 223,
+    "fields": {
+        "mrt_line": 23,
+        "station": 193,
+        "station_code": "NS21"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 224,
+    "fields": {
+        "mrt_line": 23,
+        "station": 194,
+        "station_code": "NS22"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 225,
+    "fields": {
+        "mrt_line": 23,
+        "station": 195,
+        "station_code": "NS23"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 226,
+    "fields": {
+        "mrt_line": 23,
+        "station": 196,
+        "station_code": "NS24"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 227,
+    "fields": {
+        "mrt_line": 23,
+        "station": 197,
+        "station_code": "NS25"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 228,
+    "fields": {
+        "mrt_line": 23,
+        "station": 198,
+        "station_code": "NS26"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 229,
+    "fields": {
+        "mrt_line": 23,
+        "station": 199,
+        "station_code": "NS27"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 230,
+    "fields": {
+        "mrt_line": 23,
+        "station": 200,
+        "station_code": "NS28"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 231,
+    "fields": {
+        "mrt_line": 24,
+        "station": 201,
+        "station_code": "EW1"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 232,
+    "fields": {
+        "mrt_line": 24,
+        "station": 202,
+        "station_code": "EW2"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 233,
+    "fields": {
+        "mrt_line": 24,
+        "station": 203,
+        "station_code": "EW3"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 234,
+    "fields": {
+        "mrt_line": 24,
+        "station": 204,
+        "station_code": "EW4"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 235,
+    "fields": {
+        "mrt_line": 24,
+        "station": 205,
+        "station_code": "EW5"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 236,
+    "fields": {
+        "mrt_line": 24,
+        "station": 206,
+        "station_code": "EW6"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 237,
+    "fields": {
+        "mrt_line": 24,
+        "station": 207,
+        "station_code": "EW7"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 238,
+    "fields": {
+        "mrt_line": 24,
+        "station": 208,
+        "station_code": "EW8"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 239,
+    "fields": {
+        "mrt_line": 24,
+        "station": 209,
+        "station_code": "EW9"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 240,
+    "fields": {
+        "mrt_line": 24,
+        "station": 210,
+        "station_code": "EW10"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 241,
+    "fields": {
+        "mrt_line": 24,
+        "station": 211,
+        "station_code": "EW11"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 242,
+    "fields": {
+        "mrt_line": 24,
+        "station": 212,
+        "station_code": "EW12"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 243,
+    "fields": {
+        "mrt_line": 24,
+        "station": 197,
+        "station_code": "EW13"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 244,
+    "fields": {
+        "mrt_line": 24,
+        "station": 198,
+        "station_code": "EW14"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 245,
+    "fields": {
+        "mrt_line": 24,
+        "station": 213,
+        "station_code": "EW15"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 246,
+    "fields": {
+        "mrt_line": 24,
+        "station": 214,
+        "station_code": "EW16"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 247,
+    "fields": {
+        "mrt_line": 24,
+        "station": 215,
+        "station_code": "EW17"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 248,
+    "fields": {
+        "mrt_line": 24,
+        "station": 216,
+        "station_code": "EW18"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 249,
+    "fields": {
+        "mrt_line": 24,
+        "station": 217,
+        "station_code": "EW19"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 250,
+    "fields": {
+        "mrt_line": 24,
+        "station": 218,
+        "station_code": "EW20"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 251,
+    "fields": {
+        "mrt_line": 24,
+        "station": 219,
+        "station_code": "EW21"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 252,
+    "fields": {
+        "mrt_line": 24,
+        "station": 220,
+        "station_code": "EW22"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 253,
+    "fields": {
+        "mrt_line": 24,
+        "station": 221,
+        "station_code": "EW23"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 254,
+    "fields": {
+        "mrt_line": 24,
+        "station": 174,
+        "station_code": "EW24"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 255,
+    "fields": {
+        "mrt_line": 24,
+        "station": 222,
+        "station_code": "EW25"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 256,
+    "fields": {
+        "mrt_line": 24,
+        "station": 223,
+        "station_code": "EW26"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 257,
+    "fields": {
+        "mrt_line": 24,
+        "station": 224,
+        "station_code": "EW27"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 258,
+    "fields": {
+        "mrt_line": 24,
+        "station": 225,
+        "station_code": "EW28"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 259,
+    "fields": {
+        "mrt_line": 24,
+        "station": 226,
+        "station_code": "EW29"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 260,
+    "fields": {
+        "mrt_line": 24,
+        "station": 227,
+        "station_code": "EW30"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 261,
+    "fields": {
+        "mrt_line": 24,
+        "station": 228,
+        "station_code": "EW31"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 262,
+    "fields": {
+        "mrt_line": 24,
+        "station": 229,
+        "station_code": "EW32"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 263,
+    "fields": {
+        "mrt_line": 24,
+        "station": 230,
+        "station_code": "EW33"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 264,
+    "fields": {
+        "mrt_line": 25,
+        "station": 231,
+        "station_code": "CG1"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 265,
+    "fields": {
+        "mrt_line": 25,
+        "station": 232,
+        "station_code": "CG2"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 266,
+    "fields": {
+        "mrt_line": 26,
+        "station": 233,
+        "station_code": "NE1"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 267,
+    "fields": {
+        "mrt_line": 26,
+        "station": 214,
+        "station_code": "NE3"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 268,
+    "fields": {
+        "mrt_line": 26,
+        "station": 234,
+        "station_code": "NE4"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 269,
+    "fields": {
+        "mrt_line": 26,
+        "station": 235,
+        "station_code": "NE5"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 270,
+    "fields": {
+        "mrt_line": 26,
+        "station": 196,
+        "station_code": "NE6"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 271,
+    "fields": {
+        "mrt_line": 26,
+        "station": 236,
+        "station_code": "NE7"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 272,
+    "fields": {
+        "mrt_line": 26,
+        "station": 237,
+        "station_code": "NE8"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 273,
+    "fields": {
+        "mrt_line": 26,
+        "station": 238,
+        "station_code": "NE9"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 274,
+    "fields": {
+        "mrt_line": 26,
+        "station": 239,
+        "station_code": "NE10"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 275,
+    "fields": {
+        "mrt_line": 26,
+        "station": 240,
+        "station_code": "NE11"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 276,
+    "fields": {
+        "mrt_line": 26,
+        "station": 241,
+        "station_code": "NE12"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 277,
+    "fields": {
+        "mrt_line": 26,
+        "station": 242,
+        "station_code": "NE13"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 278,
+    "fields": {
+        "mrt_line": 26,
+        "station": 243,
+        "station_code": "NE14"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 279,
+    "fields": {
+        "mrt_line": 26,
+        "station": 244,
+        "station_code": "NE15"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 280,
+    "fields": {
+        "mrt_line": 26,
+        "station": 245,
+        "station_code": "NE16"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 281,
+    "fields": {
+        "mrt_line": 26,
+        "station": 246,
+        "station_code": "NE17"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 282,
+    "fields": {
+        "mrt_line": 27,
+        "station": 196,
+        "station_code": "CC1"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 283,
+    "fields": {
+        "mrt_line": 27,
+        "station": 247,
+        "station_code": "CC2"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 284,
+    "fields": {
+        "mrt_line": 27,
+        "station": 248,
+        "station_code": "CC3"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 285,
+    "fields": {
+        "mrt_line": 27,
+        "station": 249,
+        "station_code": "CC4"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 286,
+    "fields": {
+        "mrt_line": 27,
+        "station": 250,
+        "station_code": "CC5"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 287,
+    "fields": {
+        "mrt_line": 27,
+        "station": 251,
+        "station_code": "CC6"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 288,
+    "fields": {
+        "mrt_line": 27,
+        "station": 252,
+        "station_code": "CC7"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 289,
+    "fields": {
+        "mrt_line": 27,
+        "station": 253,
+        "station_code": "CC8"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 290,
+    "fields": {
+        "mrt_line": 27,
+        "station": 208,
+        "station_code": "CC9"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 291,
+    "fields": {
+        "mrt_line": 27,
+        "station": 254,
+        "station_code": "CC10"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 292,
+    "fields": {
+        "mrt_line": 27,
+        "station": 255,
+        "station_code": "CC11"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 293,
+    "fields": {
+        "mrt_line": 27,
+        "station": 256,
+        "station_code": "CC12"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 294,
+    "fields": {
+        "mrt_line": 27,
+        "station": 241,
+        "station_code": "CC13"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 295,
+    "fields": {
+        "mrt_line": 27,
+        "station": 257,
+        "station_code": "CC14"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 296,
+    "fields": {
+        "mrt_line": 27,
+        "station": 189,
+        "station_code": "CC15"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 297,
+    "fields": {
+        "mrt_line": 27,
+        "station": 258,
+        "station_code": "CC16"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 298,
+    "fields": {
+        "mrt_line": 27,
+        "station": 259,
+        "station_code": "CC17"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 299,
+    "fields": {
+        "mrt_line": 27,
+        "station": 260,
+        "station_code": "CC19"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 300,
+    "fields": {
+        "mrt_line": 27,
+        "station": 261,
+        "station_code": "CC20"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 301,
+    "fields": {
+        "mrt_line": 27,
+        "station": 262,
+        "station_code": "CC21"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 302,
+    "fields": {
+        "mrt_line": 27,
+        "station": 219,
+        "station_code": "CC22"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 303,
+    "fields": {
+        "mrt_line": 27,
+        "station": 263,
+        "station_code": "CC23"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 304,
+    "fields": {
+        "mrt_line": 27,
+        "station": 264,
+        "station_code": "CC24"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 305,
+    "fields": {
+        "mrt_line": 27,
+        "station": 265,
+        "station_code": "CC25"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 306,
+    "fields": {
+        "mrt_line": 27,
+        "station": 266,
+        "station_code": "CC26"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 307,
+    "fields": {
+        "mrt_line": 27,
+        "station": 267,
+        "station_code": "CC27"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 308,
+    "fields": {
+        "mrt_line": 27,
+        "station": 268,
+        "station_code": "CC28"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 309,
+    "fields": {
+        "mrt_line": 27,
+        "station": 233,
+        "station_code": "CC29"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 310,
+    "fields": {
+        "mrt_line": 28,
+        "station": 269,
+        "station_code": "CE1"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 311,
+    "fields": {
+        "mrt_line": 28,
+        "station": 199,
+        "station_code": "CE2"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 312,
+    "fields": {
+        "mrt_line": 29,
+        "station": 270,
+        "station_code": "DT1"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 313,
+    "fields": {
+        "mrt_line": 29,
+        "station": 271,
+        "station_code": "DT2"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 314,
+    "fields": {
+        "mrt_line": 29,
+        "station": 272,
+        "station_code": "DT3"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 315,
+    "fields": {
+        "mrt_line": 29,
+        "station": 273,
+        "station_code": "DT5"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 316,
+    "fields": {
+        "mrt_line": 29,
+        "station": 274,
+        "station_code": "DT6"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 317,
+    "fields": {
+        "mrt_line": 29,
+        "station": 275,
+        "station_code": "DT7"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 318,
+    "fields": {
+        "mrt_line": 29,
+        "station": 276,
+        "station_code": "DT8"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 319,
+    "fields": {
+        "mrt_line": 29,
+        "station": 260,
+        "station_code": "DT9"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 320,
+    "fields": {
+        "mrt_line": 29,
+        "station": 277,
+        "station_code": "DT10"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 321,
+    "fields": {
+        "mrt_line": 29,
+        "station": 193,
+        "station_code": "DT11"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 322,
+    "fields": {
+        "mrt_line": 29,
+        "station": 236,
+        "station_code": "DT12"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 323,
+    "fields": {
+        "mrt_line": 29,
+        "station": 278,
+        "station_code": "DT13"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 324,
+    "fields": {
+        "mrt_line": 29,
+        "station": 212,
+        "station_code": "DT14"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 325,
+    "fields": {
+        "mrt_line": 29,
+        "station": 249,
+        "station_code": "DT15"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 326,
+    "fields": {
+        "mrt_line": 29,
+        "station": 269,
+        "station_code": "DT16"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 327,
+    "fields": {
+        "mrt_line": 29,
+        "station": 279,
+        "station_code": "DT17"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 328,
+    "fields": {
+        "mrt_line": 29,
+        "station": 280,
+        "station_code": "DT18"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 329,
+    "fields": {
+        "mrt_line": 29,
+        "station": 234,
+        "station_code": "DT19"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 330,
+    "fields": {
+        "mrt_line": 29,
+        "station": 281,
+        "station_code": "DT20"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 331,
+    "fields": {
+        "mrt_line": 29,
+        "station": 282,
+        "station_code": "DT21"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 332,
+    "fields": {
+        "mrt_line": 29,
+        "station": 283,
+        "station_code": "DT22"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 333,
+    "fields": {
+        "mrt_line": 29,
+        "station": 284,
+        "station_code": "DT23"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 334,
+    "fields": {
+        "mrt_line": 29,
+        "station": 285,
+        "station_code": "DT24"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 335,
+    "fields": {
+        "mrt_line": 29,
+        "station": 286,
+        "station_code": "DT25"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 336,
+    "fields": {
+        "mrt_line": 29,
+        "station": 254,
+        "station_code": "DT26"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 337,
+    "fields": {
+        "mrt_line": 29,
+        "station": 287,
+        "station_code": "DT27"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 338,
+    "fields": {
+        "mrt_line": 29,
+        "station": 288,
+        "station_code": "DT28"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 339,
+    "fields": {
+        "mrt_line": 29,
+        "station": 289,
+        "station_code": "DT29"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 340,
+    "fields": {
+        "mrt_line": 29,
+        "station": 290,
+        "station_code": "DT30"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 341,
+    "fields": {
+        "mrt_line": 29,
+        "station": 291,
+        "station_code": "DT31"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 342,
+    "fields": {
+        "mrt_line": 29,
+        "station": 202,
+        "station_code": "DT32"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 343,
+    "fields": {
+        "mrt_line": 29,
+        "station": 292,
+        "station_code": "DT33"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 344,
+    "fields": {
+        "mrt_line": 29,
+        "station": 293,
+        "station_code": "DT34"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 345,
+    "fields": {
+        "mrt_line": 29,
+        "station": 231,
+        "station_code": "DT35"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 346,
+    "fields": {
+        "mrt_line": 30,
+        "station": 177,
+        "station_code": "BP1"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 347,
+    "fields": {
+        "mrt_line": 30,
+        "station": 294,
+        "station_code": "BP2"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 348,
+    "fields": {
+        "mrt_line": 30,
+        "station": 295,
+        "station_code": "BP3"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 349,
+    "fields": {
+        "mrt_line": 30,
+        "station": 296,
+        "station_code": "BP4"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 350,
+    "fields": {
+        "mrt_line": 30,
+        "station": 297,
+        "station_code": "BP5"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 351,
+    "fields": {
+        "mrt_line": 30,
+        "station": 270,
+        "station_code": "BP6"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 352,
+    "fields": {
+        "mrt_line": 30,
+        "station": 298,
+        "station_code": "BP7"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 353,
+    "fields": {
+        "mrt_line": 30,
+        "station": 299,
+        "station_code": "BP8"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 354,
+    "fields": {
+        "mrt_line": 30,
+        "station": 300,
+        "station_code": "BP9"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 355,
+    "fields": {
+        "mrt_line": 30,
+        "station": 301,
+        "station_code": "BP10"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 356,
+    "fields": {
+        "mrt_line": 30,
+        "station": 302,
+        "station_code": "BP11"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 357,
+    "fields": {
+        "mrt_line": 30,
+        "station": 303,
+        "station_code": "BP12"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 358,
+    "fields": {
+        "mrt_line": 30,
+        "station": 304,
+        "station_code": "BP13"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 359,
+    "fields": {
+        "mrt_line": 31,
+        "station": 245,
+        "station_code": "STC"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 360,
+    "fields": {
+        "mrt_line": 31,
+        "station": 305,
+        "station_code": "SE1"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 361,
+    "fields": {
+        "mrt_line": 31,
+        "station": 306,
+        "station_code": "SE2"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 362,
+    "fields": {
+        "mrt_line": 31,
+        "station": 307,
+        "station_code": "SE3"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 363,
+    "fields": {
+        "mrt_line": 31,
+        "station": 308,
+        "station_code": "SE4"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 364,
+    "fields": {
+        "mrt_line": 31,
+        "station": 309,
+        "station_code": "SE5"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 365,
+    "fields": {
+        "mrt_line": 31,
+        "station": 310,
+        "station_code": "SW1"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 366,
+    "fields": {
+        "mrt_line": 31,
+        "station": 311,
+        "station_code": "SW2"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 367,
+    "fields": {
+        "mrt_line": 31,
+        "station": 312,
+        "station_code": "SW3"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 368,
+    "fields": {
+        "mrt_line": 31,
+        "station": 313,
+        "station_code": "SW4"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 369,
+    "fields": {
+        "mrt_line": 31,
+        "station": 314,
+        "station_code": "SW5"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 370,
+    "fields": {
+        "mrt_line": 31,
+        "station": 315,
+        "station_code": "SW6"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 371,
+    "fields": {
+        "mrt_line": 31,
+        "station": 316,
+        "station_code": "SW7"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 372,
+    "fields": {
+        "mrt_line": 31,
+        "station": 317,
+        "station_code": "SW8"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 373,
+    "fields": {
+        "mrt_line": 32,
+        "station": 246,
+        "station_code": "PTC"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 374,
+    "fields": {
+        "mrt_line": 32,
+        "station": 318,
+        "station_code": "PE1"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 375,
+    "fields": {
+        "mrt_line": 32,
+        "station": 319,
+        "station_code": "PE2"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 376,
+    "fields": {
+        "mrt_line": 32,
+        "station": 320,
+        "station_code": "PE3"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 377,
+    "fields": {
+        "mrt_line": 32,
+        "station": 321,
+        "station_code": "PE4"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 378,
+    "fields": {
+        "mrt_line": 32,
+        "station": 322,
+        "station_code": "PE5"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 379,
+    "fields": {
+        "mrt_line": 32,
+        "station": 323,
+        "station_code": "PE6"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 380,
+    "fields": {
+        "mrt_line": 32,
+        "station": 324,
+        "station_code": "PE7"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 381,
+    "fields": {
+        "mrt_line": 32,
+        "station": 325,
+        "station_code": "PW1"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 382,
+    "fields": {
+        "mrt_line": 32,
+        "station": 326,
+        "station_code": "PW3"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 383,
+    "fields": {
+        "mrt_line": 32,
+        "station": 327,
+        "station_code": "PW4"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 384,
+    "fields": {
+        "mrt_line": 32,
+        "station": 328,
+        "station_code": "PW5"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 385,
+    "fields": {
+        "mrt_line": 32,
+        "station": 329,
+        "station_code": "PW6"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 386,
+    "fields": {
+        "mrt_line": 32,
+        "station": 330,
+        "station_code": "PW7"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 387,
+    "fields": {
+        "mrt_line": 33,
+        "station": 331,
+        "station_code": "TE1"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 388,
+    "fields": {
+        "mrt_line": 33,
+        "station": 181,
+        "station_code": "TE2"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 389,
+    "fields": {
+        "mrt_line": 33,
+        "station": 332,
+        "station_code": "TE3"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 390,
+    "fields": {
+        "mrt_line": 33,
+        "station": 333,
+        "station_code": "TE4"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 391,
+    "fields": {
+        "mrt_line": 33,
+        "station": 334,
+        "station_code": "TE5"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 392,
+    "fields": {
+        "mrt_line": 33,
+        "station": 335,
+        "station_code": "TE6"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 393,
+    "fields": {
+        "mrt_line": 33,
+        "station": 336,
+        "station_code": "TE7"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 394,
+    "fields": {
+        "mrt_line": 33,
+        "station": 337,
+        "station_code": "TE8"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 395,
+    "fields": {
+        "mrt_line": 33,
+        "station": 259,
+        "station_code": "TE9"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 396,
+    "fields": {
+        "mrt_line": 33,
+        "station": 277,
+        "station_code": "TE11"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 397,
+    "fields": {
+        "mrt_line": 33,
+        "station": 338,
+        "station_code": "TE12"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 398,
+    "fields": {
+        "mrt_line": 33,
+        "station": 339,
+        "station_code": "TE13"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 399,
+    "fields": {
+        "mrt_line": 33,
+        "station": 194,
+        "station_code": "TE14"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 400,
+    "fields": {
+        "mrt_line": 33,
+        "station": 340,
+        "station_code": "TE15"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 401,
+    "fields": {
+        "mrt_line": 33,
+        "station": 341,
+        "station_code": "TE16"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 402,
+    "fields": {
+        "mrt_line": 33,
+        "station": 214,
+        "station_code": "TE17"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 403,
+    "fields": {
+        "mrt_line": 33,
+        "station": 342,
+        "station_code": "TE18"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 404,
+    "fields": {
+        "mrt_line": 33,
+        "station": 343,
+        "station_code": "TE19"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 405,
+    "fields": {
+        "mrt_line": 33,
+        "station": 199,
+        "station_code": "TE20"
+    }
+},
+{
+    "model": "main.mrtlinestation",
+    "pk": 406,
+    "fields": {
+        "mrt_line": 33,
+        "station": 344,
+        "station_code": "TE22"
+    }
+}
+]

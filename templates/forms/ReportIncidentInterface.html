@@ -1,0 +1,16 @@
+{% extends 'base.html' %}
+{% load crispy_forms_tags %}
+{% block title %}
+    Report an incident
+{% endblock %}
+{% block content %}
+    <main class="report-incident">
+        <div class="pt-3 px-5 mt-5 border-bottom">
+            {#    <img class="mb-4" src="../assets/brand/bootstrap-logo.svg" alt="" width="72" height="57">#}
+            <h1 class="display-5 fw-bold">Report an incident</h1>
+        </div>
+        <div class="container-fluid px-5 mt-3">
+            {% crispy form %}
+        </div>
+    </main>
+{% endblock %}

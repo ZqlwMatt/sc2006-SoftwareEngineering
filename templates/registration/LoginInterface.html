@@ -1,0 +1,50 @@
+{% extends "base.html" %}
+{% load static %}
+{% block title %}Sign in{% endblock %}
+{% block extrahead %}
+    <link rel="stylesheet" href="{% static "css/signin.css" %}"/>
+{% endblock %}
+
+{% block bodyclass %}text-center{% endblock %}
+{% block content %}
+    {% if request.GET.sign_up %}
+    <div class="toast" role="alert" aria-live="assertive" aria-atomic="true">
+      <div class="toast-header">
+        <strong class="me-auto">Registration successful</strong>
+        <button type="button" class="btn-close" data-bs-dismiss="toast" aria-label="Close"></button>
+      </div>
+      <div class="toast-body">
+        Your registration was successful. You can now log in.
+      </div>
+    </div>
+    {% endif %}
+    {% if request.GET.next %}
+    <div class="toast" role="alert" aria-live="assertive" aria-atomic="true">
+      <div class="toast-header bg-warning">
+        <strong class="me-auto">Please log in</strong>
+        <button type="button" class="btn-close" data-bs-dismiss="toast" aria-label="Close"></button>
+      </div>
+      <div class="toast-body text-start">
+        To do that, you'll need to log in first.
+      </div>
+    </div>
+    {% endif %}
+<main class="form-signin">
+    <h1 class="h3 mb-3 fw-normal">Sign in</h1>
+  <form action="" method="post">
+      {% csrf_token %}
+{#    <img class="mb-4" src="../assets/brand/bootstrap-logo.svg" alt="" width="72" height="57">#}
+    <div class="form-floating mb-2">
+      <input type="username" class="form-control" id="id_username" placeholder="user" name="username">
+      <label for="id_username">Username</label>
+    </div>
+    <div class="form-floating mb-2">
+      <input type="password" class="form-control" id="id_password" placeholder="Password" name="password">
+      <label for="id_password">Password</label>
+    </div>
+      {% if message %}<div class="alert alert-danger">{{ message }}</div>{% endif %}
+    <button class="w-100 btn btn-lg btn-primary" type="submit">Sign in</button>
+  </form>
+    <a class="w-100 btn btn-lg btn-dark mt-2" href="{% url "main:sign_up" %}">Sign up for an account</a>
+</main>
+{% endblock %}

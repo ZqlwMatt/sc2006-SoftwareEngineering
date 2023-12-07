@@ -1,0 +1,22 @@
+{
+    "odata.metadata": "http://datamall2.mytransport.sg/ltaodataservice/$metadata#TrainServicesAlerts",
+    "value": {
+        "Status": 2,
+        "AffectedSegments": [
+            {
+                "Line": "NEL",
+                "Direction": "HarbourFront",
+                "Stations": "NE9,NE8,NE7,NE6",
+                "FreePublicBus": "NE9,NE8,NE7,NE6",
+                "FreeMRTShuttle": "NE9,NE8,NE7,NE6",
+                "MRTShuttleDirection": "HarbourFront"
+            }
+        ],
+        "Message": [
+            {
+                "Content": "0901hrs : NEL - Additional travelling time of 20 minutes between Boon Keng and Dhoby Ghuat stations towards HarbourFront station due to a signal fault.",
+                "CreatedDate": "2018-03-16 09:01:53"
+            }
+        ]
+    }
+}

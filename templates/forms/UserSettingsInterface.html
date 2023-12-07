@@ -1,0 +1,44 @@
+{% extends 'base.html' %}
+{% load crispy_forms_tags %}
+{% block title %}
+    Settings
+{% endblock %}
+{% block content %}
+    <main class="user-settings">
+        <div class="pt-3 px-5 mt-5 border-bottom">
+            {#    <img class="mb-4" src="../assets/brand/bootstrap-logo.svg" alt="" width="72" height="57">#}
+            <h1 class="display-5 fw-bold">Settings</h1>
+        </div>
+        <div class="container-fluid px-5 mt-3">
+            {% crispy form %}
+            <hr>
+            <h4>Your notification preferences</h4>
+            <table class="w-100 mb-2 table">
+                <thead class="thead thead-light">
+                    <tr>
+                        <th>Day/time</th>
+                        <th>Stations</th>
+                        <th></th>
+                    </tr>
+                </thead>
+                <tbody class="tbody tbody-light">
+                {% for pref in preferences %}
+                    <tr>
+                        <td>
+                            {% if pref.day == "specific_date" %}
+                                {{ pref.specific_date }}{% else %}
+                                {{ pref.day|title }}{% endif %}, {{ pref.time }}
+                        </td>
+                        <td>{% for station in pref.stations.all %}{{ station }}<br>{% endfor %}</td>
+                        <td><a href="{% url "main:update_preference" pref.id %}">Edit</a>/<a
+                                href="{% url "main:delete_preference" pref.id %}">Delete</a></td>
+                    </tr>
+                {% endfor %}
+                </tbody>
+            </table>
+            <a href='{% url "main:add_preference" %}' class='btn btn-secondary mb-2'>Add new notification preference</a><br>
+            <input type="submit" name="submit" value="Save"
+                   class="btn btn-primary button" id="submit-id-submit" form="settingsForm">
+        </div>
+    </main>
+{% endblock %}

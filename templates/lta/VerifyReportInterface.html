@@ -1,0 +1,34 @@
+{% extends 'base.html' %}
+{% load crispy_forms_tags %}
+{% load django_tables2 %}
+{% block title %}
+    Verify reported incident
+{% endblock %}
+{% block content %}
+    <main class="report-incident">
+        <div class="pt-3 px-5 mt-5 border-bottom">
+            {#    <img class="mb-4" src="../assets/brand/bootstrap-logo.svg" alt="" width="72" height="57">#}
+            <h1 class="display-5 fw-bold">Verify reported incident</h1>
+            <h4>Incident ID #{{ id }} at <strong>{{ station }}</strong></h4>
+        </div>
+        <div class="container-fluid px-5 mt-3">
+            {% render_table table %}
+            <hr>
+            <h3>Actions</h3>
+            <a href="{% url "main:verify_reports" id %}?resolve=1" class="btn btn-primary me-2">Mark as resolved</a>
+            <a class="btn btn-primary" id="announcementFormButton" data-bs-toggle="collapse"
+               href="#announcementForm" role="button" aria-expanded="false" aria-controls="announcementForm">
+                {% if has_announcements %}
+                    Update announcement
+                {% else %}
+                    Make announcement
+                {% endif %}
+            </a>
+            <div class="collapse" id="announcementForm">
+                <h4 class="mt-4">Announcement</h4>
+                {% crispy form %}
+            </div>
+            <hr>
+        </div>
+    </main>
+{% endblock %}

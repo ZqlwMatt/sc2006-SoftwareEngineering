@@ -1,0 +1,21 @@
+{% extends 'base.html' %}
+{% load django_tables2 %}
+{% block title %}
+    View reported incidents
+{% endblock %}
+{% block content %}
+    <main class="report-incident">
+        <div class="pt-3 px-5 mt-5 border-bottom">
+            {#    <img class="mb-4" src="../assets/brand/bootstrap-logo.svg" alt="" width="72" height="57">#}
+            <h1 class="display-5 fw-bold">View reported incidents</h1>
+        </div>
+        <div class="container-fluid px-5 mt-3">
+            {% if request.GET.show_resolved %}
+                <a class="btn btn-secondary" href="{% url "main:view_reports" %}">Hide resolved incidents</a>
+            {% else %}
+                <a class="btn btn-secondary" href="{% url "main:view_reports" %}?show_resolved=1">Show resolved incidents</a>
+            {% endif %}
+            {% render_table table %}
+        </div>
+    </main>
+{% endblock %}

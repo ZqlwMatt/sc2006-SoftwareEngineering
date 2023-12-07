@@ -1,0 +1,14 @@
+{% extends "base.html" %}
+{% load static crispy_forms_tags %}
+{% block title %}Sign up{% endblock %}
+{% block extrahead %}
+    <link rel="stylesheet" href="{% static "css/signin.css" %}"/>
+{% endblock %}
+
+{% block bodyclass %}text-center{% endblock %}
+{% block content %}
+<main class="form-signup">
+    <h1 class="h3 mb-3 fw-normal mt-3 pt-3">Sign up</h1>
+    {% crispy form %}
+</main>
+{% endblock %}
